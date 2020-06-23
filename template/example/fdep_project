@@ -1,0 +1,5 @@
+TEMPLATE_NAME=example
+VERSION=0.0.1
+DESCRIPTION=Example project for referrence and development for fdep
+LICENCE=MIT
+
